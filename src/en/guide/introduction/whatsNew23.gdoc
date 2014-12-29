@@ -63,7 +63,7 @@ Grails' [REST support|guide:REST] has been significantly improved with the addit
 
 * Rich [REST URL Mapping support|guide:restfulMappings] with supports for resource mappings, singular resource mappings, nested resources, versioning and more
 * New extensible response rendering and binding APIs
-* Support for HAL, Atom and Hypermedia (HATEAOS)
+* Support for HAL, Atom and Hypermedia (HATEOAS)
 * Scaffolding for REST controllers
 
 See the [user guide|guide:REST] for more information.
